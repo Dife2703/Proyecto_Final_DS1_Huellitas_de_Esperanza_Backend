@@ -101,6 +101,7 @@ const Formulario = () => {
                 <input className="button" type="submit" value="Enviar solicitud" />
             </form>
             <h3>Recibirá un correo eléctronico confirmando su solicitud </h3>
+            <a href="./Login.js" id="texto-clickeable">Inicia sesión</a>
             <img className="logo" src={'src/assets/huellita.png'} alt={"Huellita"}/>
         </div>
     )
